@@ -6,4 +6,4 @@ Assuming we have our customers located in Nigeria and we have their locational d
 To get this output
 -------------------
 
-[Visualized Customer Location](map.JPG)
+![](map.JPG)
